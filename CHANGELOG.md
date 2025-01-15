@@ -7,7 +7,7 @@ All notable changes to this project will be documented in this file.
     - 上から3桁目 : 新しい素材の追加したら加算
     
 
-### 0.1.0(2025-01-15/Editor:y_y)
+### 0.0.1(2025-01-15/Editor:y_y)
 
 
 ### Features
