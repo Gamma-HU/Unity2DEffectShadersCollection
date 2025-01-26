@@ -1,7 +1,7 @@
 # Unity2DEffectShadersCollection
 エフェクト・シェーダ―素材集
 
-- ### 発光シェーダー(uiGUI)
+- ### 発光シェーダー(uGUI)
 location: /y_y/HDRSprite
 ![image](https://github.com/user-attachments/assets/94f4ab4e-1c1d-4e3e-9387-42f6eaf13534)
 
